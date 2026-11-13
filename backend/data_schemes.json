@@ -1,0 +1,27 @@
+[
+  {
+    "id": "demo_karnataka_scholarship",
+    "name": "Karnataka Scholarship \u2014 Demo Record",
+    "description": "Demonstration scholarship record for testing the FormSaathi workflow. Replace with verified official scheme data before public use.",
+    "category": "education",
+    "eligibility": [],
+    "required_documents": [
+      "Aadhaar card",
+      "Income certificate",
+      "Caste certificate (if applicable)",
+      "Previous year marks card",
+      "Bank passbook"
+    ],
+    "benefits": null,
+    "application_steps": [
+      "Check the current official notification",
+      "Confirm eligibility with the department",
+      "Prepare the required documents",
+      "Apply through the official portal"
+    ],
+    "official_url": null,
+    "source_name": null,
+    "verification_status": "demo_unverified",
+    "last_verified_at": null
+  }
+]
